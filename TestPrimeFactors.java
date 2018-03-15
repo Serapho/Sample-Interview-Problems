@@ -1,6 +1,6 @@
 /*
  * By Eduardo Murillo
- * This program takes user input and outputs all prime factors for the tgiven input
+ * This program takes user input and outputs all prime factors for the given input
  */
 
 import java.util.ArrayList;
